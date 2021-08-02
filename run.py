@@ -180,7 +180,7 @@ async def on_message(msg: Message):
         await talker.say('模拟完成!')
         await msg.say(file_box_final_result)
     if robot_state == 5 and msg.type() == Message.Type.MESSAGE_TYPE_IMAGE:
-            #  模拟扭曲行星景象
+            #  模拟艺术行星景象
             await talker.say('已收到图像，开始模拟中')
             # 将Message转换为FileBox
             file_box_user_image = await msg.to_file_box()
@@ -194,7 +194,7 @@ async def on_message(msg: Message):
             # 将图片保存为本地文件
             await file_box_user_image.to_file(file_path=img_path)
 
-            style = 'starrynew'#模拟扭曲行星
+            style = 'starrynew'#模拟艺术行星
 
             envirstyle(img_path,style)
 
