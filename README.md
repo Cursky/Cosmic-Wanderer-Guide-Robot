@@ -3,5 +3,9 @@
 
 
 本项目基于什么完成？
-1.本项目基于WeChaty\n
+
+
+1.本项目基于WeChaty
+
+
 2.本项目基于paddlegan
