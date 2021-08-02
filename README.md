@@ -11,6 +11,9 @@
 2.本项目基于paddlegan
 
 
+b站🔗：https://www.bilibili.com/video/BV1Df4y1G7Qh
+AIstudio链接：
+
 <div align='center'>
   <img src='./readmeimg/index.jpg'>
 </div>
