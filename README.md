@@ -22,7 +22,6 @@ AIstudio链接：
 
 #  微信聊天机器人效果展示
 <img src='./readmeimg/1.jpg'>
-<img src='./readmeimg/2.jpg'>
 
 
 
