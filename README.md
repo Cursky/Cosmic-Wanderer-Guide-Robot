@@ -12,7 +12,9 @@
 
 
 b站🔗：https://www.bilibili.com/video/BV1Df4y1G7Qh
-AIstudio链接：
+
+
+AIstudio链接：https://aistudio.baidu.com/aistudio/projectdetail/2248648
 
 <div align='center'>
   <img src='./readmeimg/index.jpg'>
