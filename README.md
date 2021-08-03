@@ -11,7 +11,7 @@
 2.本项目基于paddlegan
 
 
-b站🔗：https://www.bilibili.com/video/BV1Df4y1G7Qh
+b站🔗：https://www.bilibili.com/video/BV1rA411A72R
 
 
 AIstudio链接：https://aistudio.baidu.com/aistudio/projectdetail/2248648
