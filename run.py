@@ -41,7 +41,7 @@ async def on_message(msg: Message):
     if msg.text() == 'ding':
         await msg.say('这是自动回复: dong dong dong')
     if msg.text() == 'hi' or msg.text() == '你好' or msg.text()=='救救我' or msg.text()=='请求帮助':
-        await talker.say('Dont Painc，这里是星际旅行向导小天，虽然星际旅行危机四伏，千变万化。\n但在这里我将帮助你完成星际旅航\n对我回复：“我在哪？”即可以获得附近星球坐标。')
+        await talker.say('Dont Panic，这里是星际旅行向导小天，虽然星际旅行危机四伏，千变万化。\n但在这里我将帮助你完成星际旅航\n对我回复：“我在哪？”即可以获得附近星球坐标。')
     if msg.text() == '我在哪'or msg.text() == '我在哪？':
         await talker.say('你目前处于大麦哲伦星系左悬臂附近，以目前飞船能量周围可去行星有：平面行星，海洋行星，电子行星，星云行星以及艺术行星')
         await talker.say('你可以发送‘获取+行星名字+详细信息’来获取相关行星的详细信息\n例如‘获取海洋行星详细信息’')
